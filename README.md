@@ -24,4 +24,4 @@ Docker · Kubernetes · AWS · Azure · Prometheus · Grafana · OpenTelemetry
   <img alt="GitHub statistics: 2,927 contributions in the last year, active on 282 of 368 days, 94 repositories" src="assets/stats-light.svg" width="400">
 </picture>
 
-[LinkedIn](https://linkedin.com/in/georgii-morozov-ai-ml-nlp) · Yerevan, Armenia
+[LinkedIn](https://linkedin.com/in/georgii-morozov-ai-ml-nlp)
